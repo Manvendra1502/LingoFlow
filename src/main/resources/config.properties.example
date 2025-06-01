@@ -1,0 +1,2 @@
+# Rename this file to config.properties and add your OpenAI API key here
+api.key=YOUR_OPENAI_API_KEY_HERE
