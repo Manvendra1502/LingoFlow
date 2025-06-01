@@ -57,7 +57,7 @@
 </head>
 <body>
 <div class="container">
-    <h2>Language Translator</h2>
+    <h2>LingoFlow</h2>
     <form method="post" action="translate">
         <div class="language-selectors">
             <select name="sourceLang" required>
